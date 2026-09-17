@@ -8,3 +8,4 @@ BRANCH WORKFLOW
 2. Create a feature branch.
 3. Commit focused changes.
 4. Open a Pull Request.
+Added review guidelines to team-notes.txt.
