@@ -3,3 +3,8 @@ scratch/
 *.tmp
 .DS_Store
 Thumbs.db
+private-notes.txt
+scratch/
+*.tmp
+.DS_Store
+Thumbs.db
